@@ -1,0 +1,20 @@
+c:\users\remi\documents\visual studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\CS Decompiler.exe.config
+c:\users\remi\documents\visual studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\CS Decompiler.exe
+c:\users\remi\documents\visual studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\CS Decompiler.pdb
+c:\users\remi\documents\visual studio 2012\Projects\CS Decompiler\CS Decompiler\obj\Debug\CS Decompiler.csprojResolveAssemblyReference.cache
+c:\users\remi\documents\visual studio 2012\Projects\CS Decompiler\CS Decompiler\obj\Debug\CS_Decompiler.Load.resources
+c:\users\remi\documents\visual studio 2012\Projects\CS Decompiler\CS Decompiler\obj\Debug\CS_Decompiler.Properties.Resources.resources
+c:\users\remi\documents\visual studio 2012\Projects\CS Decompiler\CS Decompiler\obj\Debug\CS Decompiler.csproj.GenerateResource.Cache
+c:\users\remi\documents\visual studio 2012\Projects\CS Decompiler\CS Decompiler\obj\Debug\CS Decompiler.exe
+c:\users\remi\documents\visual studio 2012\Projects\CS Decompiler\CS Decompiler\obj\Debug\CS Decompiler.pdb
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\ICSharpCode.NRefactory.CSharp.dll
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\ICSharpCode.NRefactory.Xml.dll
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\Mono.Cecil.dll
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\ICSharpCode.NRefactory.xml
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\ICSharpCode.NRefactory.CSharp.xml
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\ICSharpCode.NRefactory.Xml.xml
+C:\Users\Remi\Documents\Visual Studio 2012\Projects\CS Decompiler\CS Decompiler\bin\Debug\icsharpcode.decompiler.dll
